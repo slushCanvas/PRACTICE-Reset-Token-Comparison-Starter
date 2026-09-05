@@ -1,2 +1,7 @@
 /* TODO: Build a short, justified reset. Preserve useful semantics and visible focus. */
-*, *::before, *::after { box-sizing: border-box; }
+/* *, *::before, *::after { box-sizing: border-box; } */
+
+* {
+  margin: 0;
+  border: 0;
+}

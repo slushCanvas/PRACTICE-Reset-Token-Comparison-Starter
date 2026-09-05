@@ -1,0 +1,6 @@
+reset-none.css ---> 5 browser defaults that work: Samsung Galaxy, iPhone 12 Pro, Pixel 8, Nest hub, Pixel 2 XL 
+            2 browsers that conflict: Galaxy Z Fold 5, a larger responsive browser like a laptop
+
+reset-broad.css ---> 3 previous browsers that need to be rebuilt: Pixel 2XL, iPhone 12 Pro, Samsung Galaxy
+
+reset-selective.css --->
